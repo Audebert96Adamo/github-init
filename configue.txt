@@ -1,0 +1,15 @@
+audeb@Adamo MINGW64 ~
+$ cd onedrive
+
+audeb@Adamo MINGW64 ~/onedrive
+$ cd bureau
+
+audeb@Adamo MINGW64 ~/onedrive/bureau
+$ mkdir github
+
+audeb@Adamo MINGW64 ~/onedrive/bureau
+$ cd github
+
+audeb@Adamo MINGW64 ~/onedrive/bureau/github
+$ touch configue.txt
+
